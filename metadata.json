@@ -1,0 +1,6 @@
+{
+  "name": "Wunderkind Toy Emporium",
+  "description": "Artisanal handcrafted toys, STEM curiosities, and heirloom playthings for inquisitive minds of all ages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
